@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'lobster'; 
+    src: url('/fonts/Lobster.ttf'); 
+}
+
+.head_address{
+    color: whitesmoke;
+    font-size: 1.7vw;
+    padding: 5px;
+}
+
+.mainheader{
+    font-family: lobster ;
+}
+   .backgrounddark{
+       background-color: rgb(52,63,75);
+   }  
+   
+   .backgroundorange{
+       background-color: rgb(255,144,82);
+   }
+
+   .backgroundgrey{
+       background-color: rgb(150,159,170);
+   }
+
+
+
+   .navbar-nav {
+    flex: 1;
+    margin: auto !important;
+    display: flex;
+    justify-content: space-around;
+    }
+    
+
+    .mainnavbar-link{
+        color: white;
+        text-decoration: none;
+        
+    }
+
+    .class-link{
+        color: rgb(52,63,75);
+        text-decoration: none;
+        
+    }
+    .class-link:hover{
+        color: rgb(52,63,75);
+        
+        
+    }
+   
+
+    .mainnavbar-link:hover{
+        text-decoration: underline;
+        color: orange;
+    }
+
+ 
+    .social-link:hover{
+       
+        color: orange;
+    }
+
+    .footer-link{
+        padding: 10px;
+        font-size: 1.1rem;
+        color: lightgray;
+        text-decoration: none;
+        
+    }
+    .footer-link:hover{
+       
+        color: orange;
+    }
+
+ 
+      .dark-text  {
+        color: rgb(52,63,75);
+        
+      }
+      .join-now-link {
+        color: lightgray;
+        text-decoration: none;
+      }
+
+      .join-now-link :hover{
+        color: orange;
+      }
+      .footer{
+        
+          color: lightgray;
+          font-size: 1.8vw;
+      }
+      
+
+
+.largetext{
+    font-size: 1.3rem;
+}
+
+.basket {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    z-index: 10040;
+    overflow: auto;
+    overflow-y: auto;
+  }
+
+  .class-modal {
+    position: absolute;
+    top: 200px;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    z-index: 10040;
+    overflow: auto;
+    overflow-y: auto;
+  }

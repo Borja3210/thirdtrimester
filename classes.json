@@ -1,0 +1,42 @@
+[
+        {
+          "price": 100,
+          "image":"img/photo-1502471602546-17554aac1160.jpg",
+          "link": "brew_class.html",
+          "title": "BREW CLASS",
+          "time": 3,
+          "id": 1
+        },
+        {
+          "price": 250,
+          "image":"img/photo-1515283709260-ee29296f1534.jpg",
+          "link": "barista_workshop.html",
+          "title": "BARISTA WORKSHOP",
+          "time": 5,
+          "id": 2
+        },
+        {
+          "price": 175,
+          "image":"img/photo-1576670392954-38b1fdb78b1d.jpg",
+          "link": "barista_basics.html",
+          "title": "BARISTA BASICS",
+          "time": 5,
+          "id": 3
+        },
+        {
+          "price": 175,
+          "image":"img/photo-1561296215-e4fad203bd4c.jpg",
+          "title": "LATE ART WORKSHOP",
+          "link": "brew_class.html",
+          "time": 3,
+          "id": 4
+        },
+        {
+          "price": 350,
+          "image":"img/photo-1592663533909-f75fe1ae99a4.jpg",
+          "link": "brew_class.html",
+          "title": "ONE TOONETRAINING",
+          "time": 5,
+          "id": 5
+        }
+      ]

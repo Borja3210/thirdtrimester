@@ -1,0 +1,52 @@
+[
+  {"id":1,
+    "title": "3FE TASTING SUBSCRIPTIONS",
+    "price":10,
+    "image":"img/3fe-wholesale-img.112_746xauto_59e903ea3ea83-png-keep-ratio.png",
+    "content": [
+      "Choose a six month or one year plan.",
+      "Sample a single origin coffee each month.",
+      "Brewing tips and tasting notes from the 3FE team free shipping!",
+      "Our tasting subscriptions is shipped as wholeban for optimal freshness.",
+      "Only available in Ireland."
+    ]
+  },
+  {"id":2,
+    "title": "LUCKY DRIP SUBSCRIPTIONS FROM £12",
+    "image":"img/luckyDripSub.png",
+    "price":12,
+    "content": [
+        "Deliver every week fornight or month.",
+        "A single origin coffee from our current selection.",
+        "No fuzz, no commitment, cancel anytime.",
+        "Ultimate flexibility:250g or 1kg.",
+        "Free shipping! Orders in the island of Ireland.",
+        "Choose your ideal grind setting"
+    ]
+  },
+  {"id":3,
+    "title": "MOMENTUM SUBSCRIPTION FROM £10",
+    "image":"img/Momentum-Sub-Vert-imgs.002.png",
+    "price":15,
+    "content": [
+        "Momentum, our popular seasonal blend.",
+        "Perfect for officess and small groups.",
+        "Delivered every week, fortnight or month",
+        "Free shipping! Orders in the island at Ireland.",
+        "Choose your ideal grind setting"
+    ]
+  },
+  {"id":4,
+    "title": "DECAFF SUBSCRIPTION FROM £11.50",
+    "image":"img/Decaf-Sub-Vert-Img.001.png",
+    "price":11.5,
+    "content": [
+        "All the favour of caffeine.",
+        "No fuzz, no commitment, cancel anytime.",
+        "Deliver every week fornight or month.",
+        "Free shipping! Orders in the island of Ireland.",
+        "Ultimate flexibility:250g or 1kg.",
+        "Choose your ideal grind setting"
+    ]
+  }
+]
